@@ -1,0 +1,22 @@
+{
+  "name": "gulp-css-url-versioning",
+  "version": "1.0.0",
+  "description": "Appends specfied version as `?v={VERSION} to all url() statements in CSS`",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westrem/gulp-css-url-versioning.git"
+  },
+  "keywords": [],
+  "author": "Jan Jadud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westrem/gulp-css-url-versioning/issues"
+  },
+  "homepage": "https://github.com/westrem/gulp-css-url-versioning/issues#readme",
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {}
+}
